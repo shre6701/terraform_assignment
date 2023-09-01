@@ -2,6 +2,7 @@
 # Local .terraform directories
 **/.terraform/*
 terraform-provider-aws_v5.15.0_x5.exe
+assignment_pem
 
 # .tfstate files
 *.tfstate
